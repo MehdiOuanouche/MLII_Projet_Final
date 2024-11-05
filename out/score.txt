@@ -1,0 +1,39 @@
+Linear Regression:
+  Mean Squared Error (MSE): 11634403.8890
+  R² Score: 0.6292
+----------------------------------------
+Ridge Regression:
+  Mean Squared Error (MSE): 11631311.9260
+  R² Score: 0.6293
+----------------------------------------
+Bayesian Ridge Regression:
+  Mean Squared Error (MSE): 11623236.5246
+  R² Score: 0.6296
+----------------------------------------
+Random Forest Regressor (Base):
+  Mean Squared Error (MSE): 2068522.4716
+  R² Score: 0.9341
+----------------------------------------
+HistGradient Boosting Regressor (Base):
+  Mean Squared Error (MSE): 1352057.6037
+  R² Score: 0.9569
+----------------------------------------
+XGBoost Regressor (Base):
+  Mean Squared Error (MSE): 1982102.8468
+  R² Score: 0.9368
+----------------------------------------
+Random Forest Regressor (Optimized):
+  Mean Squared Error (MSE): 1320125.3442
+  R² Score: 0.9579
+----------------------------------------
+HistGradient Boosting Regressor (Optimized):
+  Mean Squared Error (MSE): 1312068.8972
+  R² Score: 0.9582
+----------------------------------------
+XGBoost Regressor (Optimized):
+  Mean Squared Error (MSE): 1753014.8507
+  R² Score: 0.9441
+----------------------------------------
+
+Best Model: HistGradient Boosting Regressor (Optimized)
+Best Model R² Score: 0.9582
