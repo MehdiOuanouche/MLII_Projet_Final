@@ -1,3 +1,6 @@
+We initially have two datasets named train and test but we decides to merge them to have more data since they both have 12 columns which have the same name.
+
+
 # MLII_Projet_Final
 
 # Loan Default Prediction
