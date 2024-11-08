@@ -1,0 +1,15 @@
+Linear Regression (Not Optimized) - Mean Squared Error: 9176523.8256
+Linear Regression (Not Optimized) - R² Score: 0.7036
+Ridge Regression (Not Optimized) - Mean Squared Error: 9178180.8949
+Ridge Regression (Not Optimized) - R² Score: 0.7035
+Random Forest Regressor (Not Optimized) - Mean Squared Error: 649646.2549
+Random Forest Regressor (Not Optimized) - R² Score: 0.9790
+HistGradient Boosting Regressor (Not Optimized) - Mean Squared Error: 697680.0260
+HistGradient Boosting Regressor (Not Optimized) - R² Score: 0.9775
+XGBoost Regressor (Not Optimized) - Mean Squared Error: 723262.7835
+XGBoost Regressor (Not Optimized) - R² Score: 0.9766
+Random Forest Regressor (Not Optimized) (Optimized) - Mean Squared Error: 608237.6830
+Random Forest Regressor (Not Optimized) (Optimized) - R² Score: 0.9804
+
+Best Model: Random Forest Regressor (Not Optimized) with MSE: 649646.2549 and R² Score: 0.9790
+Optimized Model: Random Forest Regressor (Not Optimized) (Optimized) with MSE: 608237.6830 and R² Score: 0.9804
